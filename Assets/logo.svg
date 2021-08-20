@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1033.057" height="357.28" viewBox="0 0 1033.057 357.28">
+  <g id="Group_10" data-name="Group 10" transform="translate(-442.943 -358.22)">
+    <g id="Group_9" data-name="Group 9" transform="translate(487.219 364.054)">
+      <text id="BCL" transform="translate(93.781 335.946)" fill="#fff" font-size="61" font-family="SegoeUI, Segoe UI" letter-spacing="0.4em"><tspan x="0" y="0">BCL</tspan></text>
+      <g id="Group_8" data-name="Group 8">
+        <path id="Path_4" data-name="Path 4" d="M132.689,42.845a13.326,13.326,0,1,1-13.326-13.326A13.326,13.326,0,0,1,132.689,42.845Z" transform="translate(47.104 -0.69)" fill="none" stroke="#ff0" stroke-linecap="square" stroke-miterlimit="10" stroke-width="10"/>
+        <path id="Path_5" data-name="Path 5" d="M203.789,22.484,78.783,97.61H328.794Z" transform="translate(-37.323 -22.484)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+        <g id="Group_7" data-name="Group 7" transform="translate(50.695 95.79)">
+          <path id="Path_6" data-name="Path 6" d="M135.042,45.86v81.278a114.121,114.121,0,0,0,10.244,47.517h0" transform="translate(86.254 -45.86)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+          <path id="Path_7" data-name="Path 7" d="M124.347,174.655h0a114.186,114.186,0,0,0,10.244-47.517V45.86" transform="translate(53.124 -45.86)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+          <path id="Path_8" data-name="Path 8" d="M113.387,45.86v81.278a114.186,114.186,0,0,0,10.244,47.517h0" transform="translate(19.174 -45.86)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+          <path id="Path_9" data-name="Path 9" d="M102.692,174.655h0a114.186,114.186,0,0,0,10.244-47.517V45.86" transform="translate(-13.956 -45.86)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+          <path id="Path_10" data-name="Path 10" d="M91.732,45.86v81.278a114.186,114.186,0,0,0,10.244,47.517h0" transform="translate(-47.907 -45.86)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+          <path id="Path_11" data-name="Path 11" d="M81.037,174.655h0a114.183,114.183,0,0,0,10.24-47.517V45.86" transform="translate(-81.037 -45.86)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+        </g>
+        <rect id="Rectangle_5" data-name="Rectangle 5" width="285.243" height="21.657" transform="translate(23.844 224.583)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+        <path id="Path_13" data-name="Path 13" d="M0,0H285.243V21.657H0Z" transform="translate(23.844 75.127)" fill="none" stroke="#f7ff06" stroke-width="10"/>
+        <path id="Path_12" data-name="Path 12" d="M0,0H323.559V21.657H0Z" transform="translate(4.686 246.24)" fill="none" stroke="#ff0" stroke-width="10"/>
+        <line id="Line_3" data-name="Line 3" x2="332.931" transform="translate(0 75.127)" fill="none" stroke="#ff0" stroke-miterlimit="10" stroke-width="10"/>
+      </g>
+    </g>
+    <line id="Line_4" data-name="Line 4" x1="88" transform="translate(442.943 681.785)" fill="none" stroke="#fff" stroke-width="4"/>
+    <line id="Line_5" data-name="Line 5" x1="88" transform="translate(775.917 681.785)" fill="none" stroke="#fff" stroke-width="4"/>
+    <line id="Line_6" data-name="Line 6" y2="351" transform="translate(960.5 364.5)" fill="none" stroke="#fff" stroke-width="2"/>
+    <text id="BECOME_A_CORPORATE_LAWYER" data-name="BECOME 
+A CORPORATE 
+LAWYER" transform="translate(1070 463)" fill="#fbfbfb" font-size="56" font-family="WorkSans-Regular, Work Sans"><tspan x="0" y="0">BECOME </tspan><tspan x="0" y="92">A CORPORATE </tspan><tspan x="0" y="184">LAWYER</tspan></text>
+  </g>
+</svg>
