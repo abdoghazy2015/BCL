@@ -1,0 +1,273 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;600;700;900&display=swap');
+
+body {
+    font-family: 'Cairo', sans-serif;
+}
+
+.navbar {
+    background-color: #003575 !important;
+}
+
+.navbar-brand {
+    margin-left: 5vw;
+}
+
+.nav-link {
+    font-weight: 400;
+}
+
+
+/* ----------- hero section ---------------- */
+.hero {
+    position: relative;
+    max-width: 100%;
+}
+
+.hero-background {
+    height: 80vh;
+}
+
+.hero-background {
+    position: relative;
+
+    width: 100vw;
+    max-width: 100%;
+    z-index: -10;
+    object-position: 50% 50%;
+    object-fit: cover;
+}
+
+
+.hero-background-overlay {
+    height: 80vh;
+    width: 100%;
+    z-index: 1;
+    background-color: #003575;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 25%;
+}
+
+.hero-btn {
+    position: absolute;
+    left: 50%;
+    top: 62%;
+    transform: translate(-50%, -50%);
+    z-index: 10;
+
+
+}
+
+.hero-heading {
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    font-size: 4rem;
+    font-weight: 800;
+    color: white;
+    width: 90vw;
+    z-index: 10;
+    text-align: center;
+
+
+}
+
+.hero-paragraph {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    width: 90vw;
+    color: white;
+    font-weight: 600;
+    text-align: center;
+    font-size:1.5rem ;
+}
+
+.btn-outline-light:hover {
+    color: #003575;
+}
+
+
+/* goal section */
+
+.goal-heading{
+    position: relative;
+    max-width: fit-content;
+    margin: auto;
+    line-height: 50px;
+    
+}
+.goal-heading::after{
+    content: '';
+    position: absolute;
+    width: 50%;
+    height: 0.2rem;
+    background-color: #003575;
+    left: 25%;
+    bottom: 0;
+    border-radius: 20%;   
+}
+
+.goal-container{
+    display: flex;
+    justify-content: space-around ;
+    width: 90vw;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.goal-container-img{
+    width: 40vw;
+}
+.goal-container-heading{
+    text-align: right;
+    width: 30vw;
+
+}
+.goal-container-paragraph{
+    text-align: right;
+    width: 30vw;
+    margin-top: 2rem;
+    line-height: 30px;
+   
+}
+
+.whats{
+    color: #25d366;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+.btn-outline-light:nth-child(1){
+    border-color: #3A5794;
+}
+
+.btn-outline-light{
+    border-color:#25d366 ;
+    
+}
+
+.course-content{
+    margin-top: 3rem;
+    
+}
+.content-container{
+    display: flex;
+    justify-content: space-around ;
+    width: 90vw;
+    margin-top: 3rem;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: row-reverse;
+}
+
+.content-heading{
+    line-height: 70px;
+}
+.course-content-heading{
+    text-align: right;
+    width: 30vw;
+}
+.content-list{
+    text-align: right;
+}
+
+.about-section{
+    margin-top: 3rem;
+}
+
+.about-list{
+    list-style: none;
+    margin-top: 3rem;
+    text-align: right;
+}
+.contact-us{
+    margin-top: 3rem;
+}
+.contact-us-heading{
+    line-height: 65px;
+}
+.bg-dark{
+    background-color: #003575 !important;
+}
+@media only screen and (max-width: 960px) {
+    .hero-heading{
+        font-size:3rem ;
+    }
+    .hero-paragraph{
+        font-size: 1.5rem;
+    }
+
+    .goal-container-img{
+        width: 30vw ;
+        height: auto;
+    }
+    .goal-container-heading{
+        font-size: 1.3rem;
+    }
+    .goal-container-paragraph{
+        font-size: .7rem;
+    }
+    .course-content-heading{
+        font-size: 1.1rem;
+    }
+    
+
+
+
+}
+@media only screen and (max-width: 600px) {
+    .hero-heading{
+        font-size:2rem ;
+    }
+    .hero-paragraph{
+        font-size: 1rem;
+    }
+    .goal-container{
+        flex-direction: column-reverse;
+    }
+
+    .goal-container-img{
+        width: 80vw ;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .goal-container-heading{
+        margin-top: 2rem;
+        font-size: 1.3rem;
+        width: 80vw;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .goal-container-paragraph{
+        font-size: .7rem;
+        width: 70vw;
+        text-align: center;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .course-content-heading{
+        font-size: 1.1rem;
+    }
+    .content-container{
+        flex-direction: column-reverse;
+    }
+    .course-content-heading{
+        margin-left: auto;
+        margin-right: auto;
+        width: 80vw;
+        text-align: center;
+        margin-top: 2rem;
+    }
+    .content-list{
+        text-align: right;
+    }
+
+
+}
